@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <!-- Settings -->
+    <string name="settings_about">关于</string>
+    <string name="settings_restart">重启桌面</string>
+    <string name="settings_interface">界面</string>
+    <string name="settings_effects">效果</string>
+    
+    <!-- About -->
+    <string name="about_version_title">Flyface 版本</string>
+    <string name="about_developers_title">开发者</string>
+    <string name="about_developers_summary">创建 \@喝雪碧的虾(PeterCxy) 重编译 \@Root_Feng</string>
+    <string name="about_license_title">开源协议</string>
+    <string name="about_license_summary">Apache许可 </string>
+    
+    <!-- Interface -->
+    <string name="interface_icon">主题</string>
+    <string name="interface_iconpack_current_title">当前主题包</string>
+    <string name="interface_iconpack_current_summary_default">默认</string>
+    <string name="interface_iconpack_chooser_title">选择主题包</string>
+    <string name="interface_global">全局</string>
+    <string name="interface_global_font_size_title">字体大小</string>
+    <string name="interface_homescreen_drawer">主屏幕/抽屉</string>
+    <string name="interface_homescreen_drawer_icon_size_title">图标大小</string>
+    <string name="interface_homescreen_drawer_enable_drawer">启用程序抽屉(原生)</string>
+    <string name="interface_hotseat">托盘</string>
+    <string name="interface_hotseat_icon_size_title">图标大小</string>
+    
+    <!-- Effects -->
+    <string name="effects_global">全局</string>
+    <string name="effects_global_auto_rotate_title">自动旋转</string>
+    
+    <!-- Messages -->
+    <string name="message_needs_restart">需要重启Flyface 使设置生效</string>
+    
+</resources>

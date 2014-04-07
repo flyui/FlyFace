@@ -7,7 +7,7 @@ FLY-UI论坛：http://bbs.flydev.cc
   
   
   
-0.1.0-branch-face
+v0.1.0-branch-face
 -------
 首次公布并开源！  
 基于AOSP4.4的Launcher源码修改的LightLauncher开源项目修改的Launcher程序  
